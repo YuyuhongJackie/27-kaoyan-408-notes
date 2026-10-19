@@ -1,0 +1,19 @@
+# Course videos and source materials
+*.mp4
+数据结构/*.pdf
+数据结构/*.docx
+数据结构/02 27考研王道计算机【数据结构领学班】/
+
+# Generated transcripts and caches
+**/transcript.*
+**/manifest.json
+**/contact_sheets/
+**/frames/
+**/__pycache__/
+*.pyc
+
+# Local and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

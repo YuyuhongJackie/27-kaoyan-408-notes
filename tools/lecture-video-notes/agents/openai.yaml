@@ -1,0 +1,4 @@
+interface:
+  display_name: "网课视频笔记"
+  short_description: "本地网课转写、关键帧定位与章节笔记整理"
+  default_prompt: "Use $lecture-video-notes to ingest this lecture, extract the complete slide pages, and build an image-first study note with concise explanations."
